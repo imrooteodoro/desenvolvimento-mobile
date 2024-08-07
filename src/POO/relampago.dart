@@ -1,11 +1,11 @@
-void main(List<String>args){
+void main(){
 
-    relampagomarquinhos = RelampagoMarquinhos();
+    RelampagoMarquinhos relampagomarquinhos = RelampagoMarquinhos();
     relampagomarquinhos.velocidade = 300;
     relampagomarquinhos.cor = 'Vermelho';
 
 
-    print(relampagomarquinhos.velocidade)
+    print(relampagomarquinhos.velocidade);
 }
 
 
