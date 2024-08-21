@@ -1,3 +1,5 @@
+//Autor: Adelson Teodoro Nunes
+//Data: 20/08/2024
 void main(){
   saudacao("Teodoro", func: iterator);
 
