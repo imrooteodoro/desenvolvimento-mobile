@@ -5,6 +5,7 @@ Exercicio 1 de Exceções em Dart
 
 void main(){
   divisao_por_zero(10);
+  passarnome('');
   
 }
 
@@ -24,6 +25,9 @@ passarnome(String nome){
   try{
     if(nome!=''){
       print(nome);
+    }else{
+      throw Exception('nome vázio');
+      
     }
   }catch(e){
     print("Usuário não passou o nome ${e}");
