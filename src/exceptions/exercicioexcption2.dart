@@ -9,7 +9,7 @@ int soma([int? a, int? b]){
     if(a != null && b != null ){
           return a + b;
     }else{
-      throw Exception('Valores passados são nulos');
+      throw Exception('um ou ambos os valores passados são nulos');
     }
   }catch(e){
     print('error: ${e}');
