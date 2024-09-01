@@ -8,6 +8,12 @@
 - [x] ESTUDO DE FLUTTER
 
 
+##### ENGENHARIA DE SOFTWARE II
+
+> [!TIP]
+> Os diagramas com código podem ser encontrados em [diagramas](src/POO/engenharia_de_software/EngSoftware.md)
+
+
 
 ### DOCENTE
 
