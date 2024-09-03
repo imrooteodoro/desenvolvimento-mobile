@@ -1,7 +1,7 @@
 void main(){
 
-    print(twisters.reproduzir());
-    print(twisters.getName());
+    //print(twisters.reproduzir());
+    //print(twisters.getName());
 }
 
 class Filme{
